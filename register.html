@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <script>
+ function formValidation()
+{
+var passid = document.registration.password;
+var name = document.registration.name;
+var uadd = document.registration.address;
+var uemail = document.registration.email;
+var umsex = document.registration.msex;
+var ufsex = document.registration.fsex;
+var flag = 0
+
+if(allLetter(name)){
+if(true){
+if(ValidateEmail(uemail)){
+if(validsex(umsex,ufsex)){
+if(passid_validation(passid,7,12))
+{flag = 1}
+}
+}
+}
+}
+if(flag == 1)
+return true;
+else
+return false;
+}
+
+function passid_validation(passid,mx,my)
+{
+var passid_len = passid.value.length;
+if (passid_len == 0 ||passid_len >= my || passid_len < mx)
+{
+alert("Password should not be empty / length be between "+mx+" to "+my);
+passid.focus();
+return false;
+}
+return true;
+}
+
+function validsex(umsex,ufsex)
+{
+x=0;
+
+if(umsex.checked)
+{
+x++;
+} if(ufsex.checked)
+{
+x++;
+}
+if(x==0)
+{
+alert('Select Male/Female');
+umsex.focus();
+return false;
+}
+else
+{
+alert('Form Successfully Submitted');
+window.location.reload()
+return true;}
+}
+
+function ValidateEmail(uemail)
+{
+var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+if(uemail.value.match(mailformat))
+{
+return true;
+}
+else
+{
+alert("You have entered an invalid email address!");
+uemail.focus();
+return false;
+}
+}
+
+function allLetter(uname)
+{
+var letters = /^[A-Za-z]+$/;
+if(uname.value.match(letters))
+{
+return true;
+}
+else
+{
+alert('Username must have alphabet characters only');
+uname.focus();
+return false;
+}
+}
+
+</script>
+
+</head>
+<body>
+
+
+<div class="container">
+    
+        <h1 style="text-align: center">Login!</h1>
+        <div style="width: 30%; margin: 25px auto;">
+            <form name='registration' onsubmit="return formValidation();" action="/info" method="POST">
+                <div class="form-group">
+                    <input class="form-control" type="text" name="name" placeholder="Enter Full name"> 
+                </div>
+               <div class="form-group">
+                    <input class="form-control" type="text" name="email" placeholder="Enter Email">
+                </div>
+                 <div class="form-group">
+                    <div class="row"><div class="col-md-4"> <label>Gender</label></div>
+                    <div class="col-md-4">
+                     <input class="form-check-input" type="radio" name="sex" id="exampleRadios1" value="M" checked>
+                      <label class="form-check-label" for="exampleRadios1">
+                     Male
+                 </label></div>
+                    <div class="col-md-4"> <input class="form-check-input" type="radio" name="sex" id="exampleRadios1" value="F" checked>
+                      <label class="form-check-label" for="exampleRadios1">
+                        Female
+                </label></div>
+                </div>
+                   
+                </div>
+                 <div class="form-group">
+                <div class="row">
+                    <div class="col-md-6">
+                    <input class="form-control" type="text" name="State" placeholder="State"> 
+                    </div>
+                    <div class="col-md-6">
+                       <input class="form-control" type="text" name="City" placeholder="City">  
+                    </div>
+                </div>
+            </div>
+                <div class="form-group">
+                    <input class="form-control" type="text" name="address" placeholder="Address">
+                </div>
+                <div class="form-group">
+                    <input class="form-control" type="password" name="password" placeholder="Password">
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-lg btn-primary btn-block" value="Login">Submit!</button>
+                </div>
+            </form>
+            <a href="">Go Back</a>
+        </div>
+    
+</div>
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+</body>
+</html>

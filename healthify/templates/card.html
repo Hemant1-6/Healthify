@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html xmlns:style="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<style>
+
+.container {
+
+position:relative;
+height:100%;
+
+}
+
+.btn {
+ position: absolute;
+right:    0;
+bottom:   0;
+left: 0;
+}
+.m
+{
+	margin: 0px;
+	}
+
+.imgpad
+{
+	padding: 10px;
+}
+
+.nm
+{
+	margin:10px;
+}
+
+	</style>
+</head>
+<body>
+
+<!--spinner-->
+<div style="background-color:#f8f8f8; padding: 30px;" >
+	<div  class="container"  >
+		<div class="row">
+			<div class="col-md-9">
+			<select class="browser-default custom-select " name="city">
+
+  <option selected>Select your City</option>
+  <option value="Delhi">Delhi</option>
+  <option value="Hyderbad">Hyderabad</option>
+  <option value="Kolkata">Kolkata</option>
+  <option value="Mumbai">Mumbai</option>
+</select>
+
+			</div>
+			<div class="col-md-3">
+
+				<button class="btn btn-block btn-primary">SUBMIT</button>
+
+			</div>
+		</div>
+	</div>
+	</div>
+
+
+<!--doctor card-->
+	<div class="container">
+		<div style="margin-top: 15px;margin-bottom: 10px;">
+		{% for doctor in doctors %}
+		<div class="row">
+			<div class="col-md-9">
+				<div class="row"> 
+
+				<div class="col-md-2">
+					<div class="thumbnail">
+						<img class="imgpad" src="static/images/pic02.png" class="img-fluid img-">
+					</div>
+					 
+					
+				</div>
+				<div class="col-md-10">
+					  <div class="" >
+                                 <section style="font-weight: bold;font-size: 18px;color: #14bef0;box-sizing: inherit;display: block;" class="m" id="name">{{doctor.name}}</section>
+                                 <section style="font-weight: 550;color: #414146;font-family: sans-serif;" class="m"  id="category">{{doctor.category}}</section>
+                                 <br>
+                                 <section style="font-weight: 400;color: #414146;font-family: inherit;" class="m"  id="qualifications">{{doctor.qualification}}</section>
+                               <section style="font-weight: 400;color: #414146;font-family: inherit;" class="m"  id="experience">{{doctor.experience}}</section>
+                               
+                              
+                               <br><br>
+                                     <section style="font-weight: 400;color: #414146;font-family:inherit;" id="reviews">{{doctor.description}}</section><br>
+
+                       </div>
+				</div>
+			</div>
+
+
+
+				
+			</div>
+			<div class="col-md-3">
+				
+                                 <div >
+                                 	<div class="row">
+                                 		<div class="col-md-2">
+                                 		<img style="margin-top: 10px;" src="static/images/location.png">
+                                 	</div>
+                                 	<div class="col-md-10">
+                                 		<section class="nm" id="street" >{{doctor['address'].street}}</section>
+                                 	</div> 
+                                 </div>
+                                 <div class="row">
+                                 		<div class="col-md-2">
+                                 		<img style="margin-top: 10px;" src="static/images/email.png">
+                                 	</div>
+                                 	<div class="col-md-10">
+                                 		 <section class="nm" id="email">{{doctor.phone}}</section>
+                                 	</div> 
+                                 </div>
+
+                                 <div class="row">
+                                 		<div class="col-md-2">
+                                 		<img style="margin-top: 10px;" src="static/images/time.png">
+                                 	</div>
+                                 	<div class="col-md-10">
+                                 		 <section class="nm" id="avail">{{doctor['availability'].days}}</section>
+										<section class="nm" id="time">{{doctor['availability'].time}}</section>
+                                 	</div> 
+                                 </div>
+
+                                 <div class="row" >
+                                 		<div class="col-md-2">
+                                 		<img src="static/images/cash.png">
+                                 	</div>
+                                 	<div class="col-md-10">
+                                 		 <section class="nm" id="book">{{doctor.booking_fee}}</section>
+                                 	</div> 
+                                 </div>
+                                        
+                                       
+                                       
+                                </div>
+                            <div class="btn-holder mt-5">
+                            <button  class="btn btn-outline-primary btn-lg btn-block" type="button" >Book Appointment</button>
+                            </div>
+
+ 			</div>
+		  </div>
+			<hr><hr>
+			 {% endfor %}
+		</div>
+
+	</div>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+</body>
+</html>

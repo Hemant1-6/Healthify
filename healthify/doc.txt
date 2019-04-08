@@ -1,0 +1,1252 @@
+[{
+		"id": 345,
+		"name": "Dr. Suresh Mohan",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9899457810",
+		"address": {
+			"street": "Sector 7",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Ear-Nose-Throat (ENT) Specialist ",
+		"experience": " 5 Years ",
+		"booking_fee": " 300",
+		"qualifications": "MDS - Oral & Maxillofacial Surgery, BDS, Basic Life Support (BLS)"
+	},
+
+	{
+		"id": 346,
+		"name": "Dr. Sachin Mittal",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9812468881",
+		"address": {
+			"street": "6/46 Model Town ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Ear-Nose-Throat (ENT) Specialist ",
+		"experience": " 5 Years",
+		"booking_fee": " 200",
+		"qualifications": "MBBS, MS - ENT, DNB - ENT"
+	},
+
+
+
+
+
+	{
+		"id": 347,
+		"name": "Dr. Neha Mehta",
+		"gender": "F",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "09050232637",
+		"address": {
+			"street": "Opp Civil Hospital ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": " Ear-Nose-Throat (ENT) Specialist",
+		"experience": " 8 Years",
+		"booking_fee": " 250 ",
+		"qualifications": "MBBS, MS - ENT, DNB - ENT"
+	},
+
+
+
+
+
+	{
+		"id": 349,
+		"name": "Dr. Juneja",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416532712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": " Ear-Nose-Throat (ENT) Specialist",
+		"experience": " 7 Years ",
+		"booking_fee": " 150 ",
+		"qualifications": "MBBS, MS - ENT, DNB - ENT"
+
+	},
+
+
+
+
+
+	{
+		"id": 350,
+		"name": "Dr. Deepti",
+		"gender": "F",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9165766400",
+		"address": {
+			"street": "55/18 kamla Nagar ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": " Ear-Nose-Throat (ENT) Specialist",
+		"experience": " 10 Years ",
+		"booking_fee": " 300 ",
+		"qualifications": "MBBS, MS - ENT, DNB - ENT"
+	},
+
+
+
+
+	{
+		"id": 351,
+		"name": "Dr. Vikram jain",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9034951525",
+		"address": {
+			"street": "Near Jindal Chowk ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Ear-Nose-Throat (ENT) Specialist ",
+		"experience": " 15 Years ",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, MS - ENT, DNB - ENT"
+	},
+
+
+
+
+
+	{
+		"id": 352,
+		"name": "Dr. Amit Mehta",
+		"gender": "M",
+		"category": "ENT",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416108409",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Ear-Nose-Throat (ENT) Specialist ",
+		"experience": " 2 Years ",
+		"booking_fee": " 200 ",
+		"qualifications": "MBBS, MS - ENT, DNB - ENT"
+	},
+
+
+
+	{
+		"id": 353,
+		"name": "Dr. Bajaj",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9996863353",
+		"address": {
+			"street": "Near Railway Station ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dentist ",
+		"experience": "  12 Years ",
+		"booking_fee": " 300 ",
+		"qualifications": "MBBS, MS - ENT, DNB - ENT"
+	},
+
+
+
+	{
+		"id": 354,
+		"name": "Dr. S.k.Mohan",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9899458420",
+		"address": {
+			"street": "Model Town",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Dentist ",
+		"experience": "10 Years",
+		"booking_fee": " 300 ",
+		"qualifications": "BDS, Fellow of Academy of General Education (FAGE), MDS"
+	},
+
+
+
+
+	{
+		"id": 355,
+		"name": "Dr. Umesh Mehta",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9679457810",
+		"address": {
+			"street": "Sector 13",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dentist ",
+		"experience": " 5 Years ",
+		"booking_fee": " 250",
+		"qualifications": "BDS, Fellow of Academy of General Education (FAGE), MDS"
+	},
+
+
+
+
+	{
+		"id": 356,
+		"name": "Dr. Saroj ",
+		"gender": "F",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "98416534512",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": " Dentist",
+		"experience": " 5 Years ",
+		"booking_fee": " 300 ",
+		"qualifications": "BDS, Certificate in Dental Implants"
+	},
+
+
+
+	{
+		"id": 357,
+		"name": "Dr. Yadav",
+		"gender": "F",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416535312",
+		"address": {
+			"street": "Near Sector 56  Metro Station",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": " Dentist",
+		"experience": " 8 Years",
+		"booking_fee": " 300 ",
+		"qualifications": "BDS, Certificate in Dental Implants"
+	},
+
+
+
+	{
+		"id": 357,
+		"name": "Dr. Mukherji",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8716532712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dentist ",
+		"experience": "10 Years ",
+		"booking_fee": " 300 ",
+		"qualifications": "BDS, MDS - Periodontics"
+	},
+
+
+
+
+	{
+		"id": 358,
+		"name": "Dr. Beniwal",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9466532112",
+		"address": {
+			"street": "Near Old Shani mandir ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dentist ",
+		"experience": " 2 Years",
+		"booking_fee": " 250 ",
+		"qualifications": "BDS, MDS - Oral Medicine and Radiology"
+	},
+
+
+
+
+
+	{
+		"id": 359,
+		"name": "Dr. Jain",
+		"gender": "M",
+		"category": "dentist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8450132712",
+		"address": {
+			"street": "Near Huda City Metro Station ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dentist ",
+		"experience": " 15 Years",
+		"booking_fee": " 1000",
+		"qualifications": "MDS - Oral & Maxillofacial Surgery, BDS, Basic Life Support (BLS)"
+	},
+
+
+
+
+
+	{
+		"id": 360,
+		"name": "Dr. Rajesh",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8752532712",
+		"address": {
+			"street": "Near Bhabha Chowk ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Neurologist ",
+		"experience": " 10 Years ",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, MD - General Medicine, MRCP (UK), CCT - Neurology"
+	},
+
+
+
+
+
+	{
+		"id": 361,
+		"name": "Dr. Anjali",
+		"gender": "F",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416511111",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Neurologist ",
+		"experience": " 8 Years ",
+		"booking_fee": " 300",
+		"qualifications": "MBBS, MD - General Medicine, MRCP (UK), CCT - Neurology"
+	},
+
+
+
+
+
+
+	{
+		"id": 362,
+		"name": "Dr. Ahuja",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9138405216",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Neurologist ",
+		"experience": " 6 Years ",
+		"booking_fee": " 250",
+		"qualifications": "MBBS, MD - General Medicine, MRCP (UK), CCT - Neurology"
+	},
+
+
+	{
+		"id": 363,
+		"name": "Dr. Satija",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9415422712",
+		"address": {
+			"street": "Near Old Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Neurologist ",
+		"experience": " 8 Years ",
+		"booking_fee": "300 ",
+		"qualifications": "MBBS, DM - Neurology"
+	},
+
+
+
+
+	{
+		"id": 364,
+		"name": "Dr. Malik",
+		"gender": "F",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9996854215",
+		"address": {
+			"street": "Near Railway Station ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Neurologist ",
+		"experience": " 5 Years ",
+		"booking_fee": "250 ",
+		"qualifications": "MBBS, DM - Neurology"
+	},
+
+
+
+
+	{
+		"id": 365,
+		"name": "Dr. Abhay",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988723001",
+		"address": {
+			"street": "Model Town ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": " Neurologist",
+		"experience": " 2 Years ",
+		"booking_fee": " 350 ",
+		"qualifications": "MBBS, DM - Neurology"
+	},
+
+
+
+	{
+		"id": 366,
+		"name": "Dr. Mehta",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416407623",
+		"address": {
+			"street": "Sector 2 ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Neurologist ",
+		"experience": " 2 Years ",
+		"booking_fee": " 350 ",
+		"qualifications": "MBBS, DM - Neurology"
+	},
+
+
+	{
+		"id": 367,
+		"name": "Dr. Rajan",
+		"gender": "M",
+		"category": "neurologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8845124578",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Neurologist ",
+		"experience": " 5 Years ",
+		"booking_fee": " 300 ",
+		"qualifications": "MD - General Medicine, DM - Neurology, DNB - General Medicine, MBBS"
+	},
+
+	{
+		"id": 368,
+		"name": "Dr. V.s. Rao",
+		"gender": "F",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8199022712",
+		"address": {
+			"street": "Sector 4",
+			"city": "Delhi",
+			"prov": "ON",
+			"postal": "110001"
+		},
+		"description": "Podiatrist ",
+		"experience": " 8 Years",
+		"booking_fee": " 300 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+	{
+		"id": 369,
+		"name": "Dr. Gopal",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9415422222",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": " Podiatrist",
+		"experience": "  6 Years",
+		"booking_fee": "300 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+	{
+		"id": 370,
+		"name": "Dr. R.V. Verma",
+		"gender": "F",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416511120",
+		"address": {
+			"street": "Near Nehru Chowk ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Podiatrist ",
+		"experience": " 10 Years",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+	{
+		"id": 371,
+		"name": "Dr. Rajnish",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416161617",
+		"address": {
+			"street": "Near Purana gurudwara ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Podiatrist ",
+		"experience": " 2 Years ",
+		"booking_fee": "300 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+	{
+		"id": 372,
+		"name": "Dr. Balram",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416555000",
+		"address": {
+			"street": "Near Sector 4 mandir",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": " Podiatrist",
+		"experience": " 4 Years ",
+		"booking_fee": " 200 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+
+
+	{
+		"id": 373,
+		"name": "Dr.Ram Gopal",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416125415",
+		"address": {
+			"street": "Near Boga Mandi ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Podiatrist ",
+		"experience": " 6 Years",
+		"booking_fee": " 350 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+
+
+	{
+		"id": 374,
+		"name": "Dr. Ronak",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416532712",
+		"address": {
+			"street": "Near Old Fatak ",
+			"city": "Kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": " Podiatrist",
+		"experience": " 8 Years",
+		"booking_fee": " 300",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+
+	{
+		"id": 375,
+		"name": "Dr. Chander Mohan",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8752461581",
+		"address": {
+			"street": "Near Subhash Chowk ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": " Podiatrist",
+		"experience": " 8 Years",
+		"booking_fee": " 300 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+
+	{
+		"id": 376,
+		"name": "Dr. Boga Ram",
+		"gender": "M",
+		"category": "Podiatrist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988124589",
+		"address": {
+			"street": "Sector 14 ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Podiatrist ",
+		"experience": " 5 Years ",
+		"booking_fee": "250 ",
+		"qualifications": "MBBS, Diploma in Orthopaedics, DNB - Orthopedics/Orthopedic Surgery, Fellowship in Joint Replacement & Arthroscopy"
+	},
+
+
+
+	{
+		"id": 377,
+		"name": "Dr. Swaroop",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7581532712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": " Physical & Neurological Rehabilitation Therapist",
+		"experience": "4 Years ",
+		"booking_fee": " 200",
+		"qualifications": "Certificate in Workplace Ergonomics, PG Diploma in Developmental Therapy (MD & PN), BPTh/BPT, fifa diploma in football medicine"
+	},
+
+
+
+	{
+		"id": 378,
+		"name": "Dr. S.K.Mehta",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416532712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Physical & Neurological Rehabilitation Therapist ",
+		"experience": " 5 Years ",
+		"booking_fee": "300 ",
+		"qualifications": "Certificate in Workplace Ergonomics, PG Diploma in Developmental Therapy (MD & PN), BPTh/BPT, fifa diploma in football medicine"
+	},
+
+
+
+	{
+		"id": 379,
+		"name": "Dr. Juneja",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416531512",
+		"address": {
+			"street": "Near Huda House ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Physical & Neurological Rehabilitation Therapist ",
+		"experience": " 3 Years",
+		"booking_fee": " 200 ",
+		"qualifications": "PG Diploma in Developmental Therapy (MD & PN)"
+	},
+
+	{
+		"id": 380,
+		"name": "Dr. Hemant Singh",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896238256",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Physical & Neurological Rehabilitation Therapist ",
+		"experience": " 3 Years",
+		"booking_fee": " 200 ",
+		"qualifications": "PG Diploma in Developmental Therapy (MD & PN)"
+	},
+
+	{
+		"id": 381,
+		"name": "Dr. Sureel",
+		"gender": "F",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8199022712",
+		"address": {
+			"street": "Sector 2 ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": " Physical & Neurological Rehabilitation Therapist",
+		"experience": " 8 Years ",
+		"booking_fee": " 500",
+		"qualifications": "PG Diploma in Developmental Therapy (MD & PN)"
+	},
+
+	{
+		"id": 382,
+		"name": "Dr. Ajay Johar",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "8955532712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Physical & Neurological Rehabilitation Therapist ",
+		"experience": " 5 Years ",
+		"booking_fee": " 250 ",
+		"qualifications": "PG Diploma in Developmental Therapy (MD & PN)"
+	},
+
+	{
+		"id": 383,
+		"name": "Dr. DolatRam",
+		"gender": "M",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416512452",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Physical & Neurological Rehabilitation Therapist ",
+		"experience": " 8Years ",
+		"booking_fee": " 300",
+		"qualifications": "PG Diploma in Developmental Therapy (MD & PN)"
+	},
+
+
+
+
+	{
+		"id": 384,
+		"name": "Dr. V.k.Singh",
+		"gender": "F",
+		"category": "Physical Therapist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7854621548",
+		"address": {
+			"street": "Sector 26 ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Physical & Neurological Rehabilitation Therapist ",
+		"experience": " 8 Years ",
+		"booking_fee": " 300 ",
+		"qualifications": "PG Diploma in Developmental Therapy (MD & PN)"
+	},
+
+
+
+	{
+		"id": 385,
+		"name": "Dr. Sajan Singh",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9411245712",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dermatologist ",
+		"experience": " 6 Years",
+		"booking_fee": " 250",
+		"qualifications": "B.Sc, MBBS, DDVL, MD - Dermatology"
+	},
+
+
+
+	{
+		"id": 386,
+		"name": "Dr. R.L. Lodha",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9416512233",
+		"address": {
+			"street": "Near Dabra Chowk ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dermatologist ",
+		"experience": " 3 Years",
+		"booking_fee": " 200",
+		"qualifications": "B.Sc, MBBS, DDVL, MD - Dermatology"
+	},
+
+
+
+	{
+		"id": 387,
+		"name": "Dr. S.K. Beniwal",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7845451269",
+		"address": {
+			"street": "Sector 15",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dermatologist ",
+		"experience": " 8 Years ",
+		"booking_fee": "350  ",
+		"qualifications": "MBBS, MD - Dermatology , Venereology & Leprosy, Fellowship In Cosmetic Dermatology"
+	},
+
+
+
+	{
+		"id": 388,
+		"name": "Dr. Juneja",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988798845",
+		"address": {
+			"street": "Near Raja Garden",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dermatologist ",
+		"experience": " 10 Years",
+		"booking_fee": " 400",
+		"qualifications": "MBBS, DDVL"
+	},
+
+
+
+	{
+		"id": 389,
+		"name": "Dr. Sitaram",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "7988456123",
+		"address": {
+			"street": "Sector 12 ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dermatologist",
+		"experience": " 12 Years",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, DDVL"
+	},
+
+
+
+	{
+		"id": 390,
+		"name": "Dr. A.K. Saini",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896254152",
+		"address": {
+			"street": "Old Bus Stand ",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dermatologist ",
+		"experience": " 12 Years ",
+		"booking_fee": " 500 ",
+		"qualifications": "MBBS, MD - Dermatology , Venereology & Leprosy"
+	},
+
+
+
+	{
+		"id": 391,
+		"name": "Dr. Juneja",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9466123485",
+		"address": {
+			"street": "Sector 13",
+			"city": "Hyderabad",
+			"prov": "ON",
+			"postal": "500001"
+		},
+		"description": "Dermatologist ",
+		"experience": "10 Years ",
+		"booking_fee": " 400 ",
+		"qualifications": "MBBS, MD - Dermatology , Venereology & Leprosy"
+	},
+
+
+
+	{
+		"id": 392,
+		"name": "Dr. Sita Kumari",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9845622712",
+		"address": {
+			"street": "Sector 17 ",
+			"city": "Mumbai",
+			"prov": "ON",
+			"postal": "400002"
+		},
+		"description": "Dermatologist ",
+		"experience": " 2 Years ",
+		"booking_fee": " 100",
+		"qualifications": "MBBS, MD - Dermatology , Venereology & Leprosy"
+	},
+
+
+
+
+	{
+		"id": 393,
+		"name": "Dr. A.k. Sharma",
+		"gender": "M",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896235265",
+		"address": {
+			"street": "Near Bus Stand ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": "Dermatologist ",
+		"experience": " 3 Years",
+		"booking_fee": " 150 ",
+		"qualifications": "MBBS, MD - Dermatology , Venereology & Leprosy"
+	},
+
+
+
+
+	{
+		"id": 394,
+		"name": "Dr. S.Juneja",
+		"gender": "F",
+		"category": "dermatologist",
+		"image": "/img/doctors/chan_small.jpg",
+		"availability": {
+			"days": "Monday - Saturday",
+			"time": "9:00am - 5:30pm"
+		},
+		"phone": "9896245157",
+		"address": {
+			"street": "Model Town ",
+			"city": "kolkata",
+			"prov": "ON",
+			"postal": "700001"
+		},
+		"description": " Dermatologist",
+		"experience": " 4 Years",
+		"booking_fee": " 200 ",
+		"qualifications": "MBBS, MD - Dermatology , Venereology & Leprosy"
+
+	}
+]
