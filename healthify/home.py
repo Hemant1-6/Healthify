@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, session, flash, redirect, url_for
 from DatabaseHelper import dataBase
 from DoctorsData import jsonData
+
+
 app = Flask(__name__)
 app.secret_key = "Healthify"
 
@@ -67,6 +69,7 @@ def logout():
 def dentist():
     data = jsonData()
     list = data['dentist']
+    session['doclist'] = list
     return render_template('card.html',doctors=list)
 
 
@@ -74,6 +77,7 @@ def dentist():
 def ENT():
     data = jsonData()
     list = data['ent']
+    session['doclist'] = list
     return render_template('card.html', doctors=list)
 
 
@@ -81,6 +85,7 @@ def ENT():
 def dermatologist():
     data = jsonData()
     list = data['dermo']
+    session['doclist'] = list
     return render_template('card.html', doctors=list)
 
 
@@ -88,6 +93,7 @@ def dermatologist():
 def neurologist():
     data = jsonData()
     list = data['neuro']
+    session['doclist'] = list
     return render_template('card.html', doctors=list)
 
 
@@ -95,6 +101,7 @@ def neurologist():
 def podiatrist():
     data = jsonData()
     list = data['pod']
+    session['doclist'] = list
     return render_template('card.html', doctors=list)
 
 
@@ -102,8 +109,19 @@ def podiatrist():
 def physicalTherapist():
     data = jsonData()
     list = data['phy']
+    session['doclist'] = list
     return render_template('card.html', doctors=list)
 
+
+@app.route('/spn',methods=['GET'])
+def spn():
+    doc = []
+    value = request.args["city"]
+    list = session['doclist']
+    for ls in list:
+        if ls['address']['city'] == value:
+            doc.append(ls)
+    return render_template('card.html',doctors=doc)
 
 if __name__ == '__main__':
     app.run(debug=True)
