@@ -46,8 +46,8 @@ left: 0;
 
   <option selected>Select your City</option>
   <option value="Delhi">Delhi</option>
-  <option value="Hyderbad">Hyderabad</option>
-  <option value="Kolkata">Kolkata</option>
+  <option value="Hyderabad">Hyderabad</option>
+  <option value="Kolkata">kolkata</option>
   <option value="Mumbai">Mumbai</option>
 </select>
 
@@ -139,10 +139,11 @@ left: 0;
                                        
                                        
                                 </div>
+				<form action="/book" method="get">
                             <div class="btn-holder mt-5">
-                            <button  class="btn btn-outline-primary btn-lg btn-block" type="button" >Book Appointment</button>
+                            <button  class="btn btn-outline-primary btn-lg btn-block" type="submit" value="{{doctor.name}},{{doctor['availability'].time}},{{doctor.booking_fee}}" name="submit" >Book Appointment</button>
                             </div>
-
+				</form>
  			</div>
 		  </div>
 			<hr><hr>
