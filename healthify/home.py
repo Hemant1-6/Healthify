@@ -153,5 +153,11 @@ def appoint():
     appoint_data(request,appt[0],appt[1])
     return home()
 
+
+
+@app.route('/blog')
+def blog():
+    return render_template('details.html')
+
 if __name__ == '__main__':
     app.run(debug=True)

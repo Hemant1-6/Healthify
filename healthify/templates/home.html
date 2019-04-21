@@ -8,7 +8,6 @@
 		<meta name="keywords" content="" />
 
 
-
         <link rel=stylesheet href="{{ url_for('static', filename='css/skel.css') }}"/>
 		<link rel=stylesheet href="{{ url_for('static', filename='css/style.css') }}"/>
 		<link rel=stylesheet href="{{ url_for('static', filename='css/style-xlarge.css') }}"/>
@@ -75,7 +74,7 @@
 					<div class="row">
 						<div class="4u">
 							<section class="special box">
-								<i class="icon fa fa-user-md major"></i>
+								<i class="icon 	fa fa-plus-square major"></i>
 								<h3><a href="{{url_for('neurologist')}}">Neurologist</a></h3>
 								<p>A neurologist treats conditions and disorders of the nervous system. The nervous system is a vast network that’s responsible for many of the body’s major activities.<br>Your nervous system includes the:- brain, spinal-cord, nerves, ears, eyes, skin, nose</p>
 							</section>
@@ -97,72 +96,211 @@
 					</div>
 				</div>
 			</section>
-			
-		<!-- Two -->
-			<section id="two" class="wrapper style2">
-				<header class="major">
-					<h2 id="blog">Health Articles</h2>
-					<p style="margin-top: 10px;">Scroll to access more health articles</p>
-				</header>
-				<div class="container">
-					<div class="row">
-							<div class="col-md-4 col-sm-6">
-									<div class="card mt-5">
-										<div class="card-block">
-											<img src="static/images/pic01.jpg" class="img-fluid">
-											<div class="card-title mt-3">
-											  <h2 align = "center">  Hello </h2>
-											</div>
-											<div class="card-text ml-1">
-												hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
-											<div class = "card-footer mt-3">
-													<section align="center">
-												<a href = "#" class="btn btn">Learn more</a></section>
-											</div>        
-											</div>
-										</div>
-									</div>
-								</div>
-									<div class="col-md-4 col-sm-6">
-									<div class="card mt-5">
-										<div class="card-block">
-											<img src="static/images/pic01.jpg" class="img-fluid">
-											<div class="card-title mt-3">
-											  <h2 align = "center">  Hello </h2>
-											</div>
-											<div class="card-text ml-1">
-												hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
-										   <div class="card-footer mt-3">
-											   <section align="center">
-												<a href = "#" class="btn btn">Learn more</a></section>    
-											</div>
-											</div>
-										</div>
-										</div>
-									</div>
-									<div class="col-md-4 col-sm-6">
-											<div class="card mt-5">
-												<div class="card-block">
-													<img src="static/images/pic01.jpg" class="img-fluid">
-													<div class="card-title mt-3">
-													  <h2 align = "center">  Hello </h2>
-													</div>
-													<div class="card-text ml-1">
-														hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
-													<div class = "card-footer mt-3">
-															<section align="center">
-														<a href = "#" class="btn btn">Learn more</a></section>
-													</div>        
-													</div>
-												</div>
-											</div>
-										</div>
-								</div>			
-					</div>
-				</div>
-			</section>
 
-	
+		<!-- Two -->
+		 <section id="two" class="wrapper style2">
+         <header class="major">
+          <h2 id="blog">Health Articles</h2>
+          <p style="margin-top: 10px;">Scroll to access more health articles</p>
+         </header>
+        <div class="container">
+           <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                    </ol>
+
+                      <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                    <div class="row">
+                             <div class="col-md-4">
+                                 <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+          </div>
+                            <div class="col-md-4">
+
+                                <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+
+                              </div>
+                               <div class="col-md-4">
+                       <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+                    </div>
+                            </div>
+                            </div>
+                                   <div class="carousel-item ">
+                                    <div class="row">
+                             <div class="col-md-4">
+                                 <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+          </div>
+                            <div class="col-md-4">
+
+                                <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+
+                              </div>
+                               <div class="col-md-4">
+                       <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+                    </div>
+                            </div>
+                            </div>
+                                   <div class="carousel-item ">
+                                    <div class="row">
+                             <div class="col-md-4">
+                                 <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+          </div>
+                            <div class="col-md-4">
+
+                                <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+
+                              </div>
+                               <div class="col-md-4">
+                       <div class="card mt-5">
+                    <div class="card-block">
+                      <img src="static/images/pic01.jpg" class="d-block w-100 img-fluid" alt="Third slide" height="500px" width="500px">
+                      <div class="card-title mt-3">
+                        <h2 align = "center" style="color:black">  Hello </h2>
+                      </div>
+                      <div class="card-text ml-1 .carousel-caption">
+                        hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.hello everyone welcome to my webpage.
+                      <div class = "card-footer mt-3 .carousel-caption">
+                          <section align="center">
+                        <a href = "#" class="btn btn">Learn more</a></section>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+                    </div>
+                            </div>
+                            </div>
+
+
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+
+
+                </div>
+          </div>
+
+        </section>
+
+
 						
 			
 		<!-- Footer -->
@@ -202,7 +340,10 @@
 
 
 
-
+		<script type="text/javascript" src="{{url_for('static', filename='js/jquery.min.js')}}"></script>
+		<script type="text/javascript" src="{{url_for('static', filename='js/skel.min.js')}}"></script>
+		<script type="text/javascript" src="{{url_for('static', filename='js/skel-layers.min.js')}}"></script>
+        <script type="text/javascript" src="{{url_for('static', filename='js/init.js')}}"></script>
 
 
 
