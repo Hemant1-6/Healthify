@@ -1,0 +1,108 @@
+[{
+		"title": "More TV, Tablets, More Attention Issues at Age 5",
+		"author": "Ram Gopal",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "WEDNESDAY, April 17, 2018",
+			"time": ""
+		},
+		"description": "Five-year-olds who spend more than two hours a day in front of a smartphone or tablet may be at risk of attention problems, a new study suggests.Excessive screen time among children has been the subject of much research -- particularly now that even the youngest kids are staring at phones and iPads every day.The American Academy of Pediatrics advises parents to set limits on screen time for preschoolers: no more than one hour a day for 2- to 5-year-olds. That's, in part, to make sure they have plenty of unplugged playtime.",
+		"quote": "And it's something that parents can act on"
+	},
+	{
+		"title": "3 Signs Your Skin is Dehydrated",
+		"author": "Neha Ghosh",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "September 25,2018",
+			"time": ""
+		},
+		"description": "FEELING STRETCHY Your skin feels stretchy and this is the universal sign that your skin is dehydrated. Our immediate reaction is to slather on a body lotion or a moisturizer and drink loads and loads of water. As funny as it sounds, drinking water barely helps with skin dehydration. It only helps with retaining fluids in the body. And, body lotions are only a temporary solution. What you actually need to do is address the deeper issue of why is your skin losing the ability to retain moisture.DARKER SKINMost of the people take a dark looking skin as a sign for tanning. You should look out especially for the color of your lips. If they are looking more prominent and darker than usual, it is a sure shot sign your skin is low on water. In fact, it is also a sign your body is low on fluids so gobble up some water and slather on a hydrating serum and you can see the difference immediately. But, the question still remains – Why? SCALES ON SKIN This might not be with everyone but most of the time for people with extremely dry skin, it is quite easy to see the scales or texture of the skin more prominently. Notice this the next time you wash your face or have a shower. Your skin will be plump and if you do not follow up with a moisturizer, the texture of your skin will immediately start showing up in fifteen minutes or so depending on climate and your body’s ability to retain moisture. Again, the answer is simple – slather on a lotion.",
+		"quote": "Skin dehydration is one of the major reasons why your skin looks dull and lacks that fresh and glowing look. This is a common mistake to not understand what your skin actually needs. For any instant pick up, make sure you slather on a good hydrating serum."
+	},
+
+
+	{
+		"title": "Ayurvedic Tips I have incorporated in my Daily Routine",
+		"author": "Swati Desai",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "JUNE 18,2013",
+			"time": ""
+		},
+		"description": "It has been a long time since I have followed these ayurvedic tips. Now, I am revisiting them slowly and making them part of my daily life. I shall keep you posted. But, before going, I request you to go through the entire article and please try make them a part of your life as well.",
+
+		"quote": "TRIPHALA EYE WASH,"
+	},
+
+
+	{
+		"title": "How to live with irregular working hours?",
+		"author": "Sneha",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "January 4,2019",
+			"time": ""
+		},
+		"description": "Many times you tend to work from home due to odd working hours since it is easy and more comfortable. I would say being in a work environment helps in being more focused but each to their own. If staying and working from home, create a workspace for yourself. Do not work from bed. Get a study table or at least a corner in your living room where you would not get disturbed. In fact, it is said that wearing formal clothes and getting ready for office also works pretty well to bring yourself into the working mode. This will at least help your body and mind to differentiate between your working mode and relaxing modes.Resting and relaxing is extremely important when you are working irregular hours. Make sure you disconnect from technology totally. I would even suggest to avoid social media, browsing or even television since they provide entertainment but they do not really relax you! Make sure you spend time with yourself and your family. If you are staying alone, try to spend time playing something or pursuing a new hobby or going for a walk instead. Get your priorities right if you would like to live a healthy life.",
+		"quote": "EAT REGULARLY , DISCONNECT AFTER YOUR WORK IS OVER"
+	},
+
+
+	{
+		"title": "3 Reasons for Fasting during Navratri",
+		"author": "Shastri",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "June 18,2018",
+			"time": ""
+		},
+		"description": "The idea for this post came to me when I came across this acronym called CRAP (carbonated soda, refined carbohydrates, added sugar and processed foods). In fact, this is trending so much these days.So, the whole idea of fasting is to avoid eating anything of the above in these nine days. In fact, we also eschew garlic and onion making our diets more sattvik which should be the case according to ayurveda. More sattvik our diet becomes, more is our intake of fresh and seasonal foods which means more ‘life force’ or energy in our body. To summarize, we end up preparing food at home or eating freshly prepared food as opposed to ordering it right away on a food delivery app.",
+		"quote": "EATING IN MODERATION,YOU ARE GLUTEN-FREE"
+	},
+	{
+		"title": "6 Ways Your House is Making You Sick",
+		"author": "Ravena Malik",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "July 6 ,2018",
+			"time": ""
+		},
+		"description": "The dust mites, mold, cockroaches and pollens could be the foremost reasons for your headaches, congestion, sinus and even mental health.The interesting part is that these culprits continue staying in your house making you sick long after the allergy season is over. The situation can worsen to trigger allergic asthma.Usually, in these situations there is not much you can really do except trying to eliminate the dust mites, mold and pollen from your house as much as possible or prevent their entry. Beware that these miscreants can enter your house along with you, your clothes, footwear and even the windows.",
+		"quote": "LETTING THE DUST ACCUMULATE,HIGH HUMIDITY LEVELS,IGNORING OTHER FIXTURES AND FURNISHINGS,NOT WASHING BED LINEN OFTEN,LACK OF FRESH AIR,LETTING OUTSIDE FOOTWEAR IN"
+	},
+
+	{
+		"title": "BREASTFEEDING AND FREEDOM",
+		"author": "Aloka",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "August 14,2018",
+			"time": ""
+		},
+		"description": "Being breastfeeding week I feel I should write something from a different perspective from someone who has come out on the other side.While the battle scars and wounds of being a breastfeeding mama have healed and have been replaced by the battles of parenting growing children one of them making me eat my words daily and challenging the status quo so much so that I have almost quit writing this blog worrying about being too preachy in the past, I wanted to write this from the perspective of someone who has been there done that with regards to breastfeeding and I’m now experiencing the freedom and after effects.I stopped breastfeeding for good in December all of 8 months ago. my younger son was 2 years and 8 months when he self weaned. I spent 6 whole years (Jan 2012 to Jan 2018) sharing my body with someone else whether it was through pregnancy or breastfeeding. For those moms who are in the midst of constant night wakings and endless feeds and diaper changes it’s not something you’d want to hear – 6 years!Another thing parents of older kids say is enjoy this phase, which seems like good advise but on bad days almost impossible advise to follow. Well though I do feel the baby years are just too adorably adorable to put into more coherent terms, I also quite enjoy these years where the challenges multiply but so does the fun.But the point is pregnancy, breastfeeding, babywearing the pillars of my blog is all past tense for me. Though it was 6 whole years it wasn’t too long in the long run. I am pretty sure the bonding, the love, the security all of it may have got enhanced because of all that work. i can safely say that today for them mamma is the last word in anything the do (so far and yes i know that too shall pass) and maybe it was because of giving them my all for those years when they needed me most.Though from 30 to 36 I was quite stuck to the kids I feel that now there are so many things that i feel physically that’s different. I am now following the keto diet and have loads more energy than I did in the past. I don’t feel sluggish in the afternoon and feel the drive to loose weight and dress better. On that note I have had an almost 100% wardrobe change post stepping out of my role of being the nurturer and physical nutrition provider to the kiddos. (That I am the now their chief problem solver, therapist and psychoanalyst always reading between the lines and translating the words behind the punches is another matter altogether). To add to that I have had a massive boost in sex drive since the beginning of the year which is surely related to no more pregnancy and breastfeeding hormones (YEAHH!)So in a nutshell while you’re in the midst of all of this it may seem like there is no light to the end of the tunnel, take it from someone who has dedicated a lot of years to being physically attached to her kids – it passes.Do I recommend going all out? For me there has never been any other way and it was pure love!Thanks for reading and happy breastfeeding week!",
+		"quote": "Do I miss it? Not at all because I feel I have spent enough time giving it my all"
+	},
+	{
+		"title": "ON TRUST AND CHILD DEVELOPMENT IN OUR FAST PACED WORLD",
+		"author": "Rajesh",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "December 18,2018",
+			"time": ""
+		},
+		"description": "My 4 year old just scribbles’ I laugh to another mother.She belies her worry for a second while masking it a moment later saying, ‘it’s ok, don’t worry every child does things at their pace’.‘Yes I know that, but you know a lot of 4 year olds are even writing and drawing quite decent pictures’. I reply.‘Oh see this’, she whips out her phone and shows me the beautiful pictures drawn by her 4 year old and signed by her in beautifully legible handwriting.‘That’s amazing, she is really advanced at this’. The mother shrugs smiles and I am left despairing.These are my thoughts: What if he needs one of those occupational therapies and I am being stuck up not taking him? What if his confidence takes a hit if all the other kids in his class are much better than him in drawing and writing? What if he has some serious issues with fine motors and I am being negligent? And other such very fruitful line of thought ensues.Does he feel low in confidence? I really think not. He proudly takes a sheet of white paper with the imprint of his toy tiger who’s paws were painted on and stamped to represent pugmarks that he saw in a recent trip to Corbett. These are nothing but dots to you and me but in his head he can see the pugmarks. And the tiger dragged vertically across the paper representing the marks we saw where a tiger had sharpened his claws on the tree. He can proudly stand in the front of his class and talk about those dots or marks and how this correlates in the real jungle he saw and not feel the least bit conscious that the others are drawing extravagant sceneries and houses and people with all body parts intact.As a mother that’s a little hard to see and although I don’t have a competitive streak in my body, my only worry is: Is he ok and am I doing enough?And I realize that it all comes down to trust. Trust that he will do something when he is ready and able and wants to. That he knows what he is doing and he is taking what he needs from his school and his parents and his environment. That he will probably never be as good in some things but better in others and that’s ok.Thanks for reading. What are the situations you have faced with needing to trust in your young children?",
+		"quote": "But he doesn’t want to learn how to write, or read just yet."
+	},
+	{
+		"title": "3 Morning Rituals to a Great Day",
+		"author": "Dr Abhrahm",
+		"image": "static/images/blog1.jpg",
+		"publish": {
+			"date": "January 19,2019",
+			"time": ""
+		},
+		"description": "WASHING MY FACE, BRUSHING, FLOSSING AND OIL PULLING. This is the first thing I do in the morning. Nothing wakes you up like a splash of water on the face in the morning. Brush and floss. A fresh breath always helps. And, if possible, try out oil pulling at least twice or thrice a week to reap its advantages. Along with all that, flash your teeth wide in the mirror and smile! You could try out affirmations for the day or for yourself.<br>A WARM CUP OF GREEN TEABrew a perfect cup of green tea or any beverage which you love. And, while you are sipping it, perch on your balcony and plan your day. Recall all the to-do’s so you do not forget anything important and jot them down. You can later use it as a checklist and see how much or how little you accomplished.MAKING MY BEDThis is one of the most important of the morning rituals. While that hot cup of green tea is brewing, I finish making my bed. A clean and made up bed makes the house look cleaner instantly and if things are not at their place, this is where you should start. Making the bed has been proven to have therapeutic effects as well and it sets the tone of the day since it is the first task you finish. And, it makes your room and bed inviting later in the night without any effort.So, these are a few morning rituals I like to do. No exercises or meditation. Of course, if you do, I would definitely suggest meditation in the rituals but then you can always customize your set of morning rituals. Just do whatever makes you feel good and not something you would like to avoid like going to the gym or that zumba class which I could never keep up with!! Not being able to finish what you set leaves you with a weaker morale for the day.Yet, there is one more thing I would like to do. Take a walk in nature but that requires major dedication to get dressed and drive to the park which is not exactly far away. So, may be some day or a task to do for the weekends. Do not forget to share your set of morning rituals.",
+		"quote": "It is advised to cultivate rituals instead of habits to make them a part of your lifestyle. Rituals have a sanctity associated with them where as habits are more enforced and, thus, easier to break. Morning Rituals have a great impact on how your day goes and how you feel"
+	}
+]

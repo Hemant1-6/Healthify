@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, session, flash, redirect, url_for
 from DatabaseHelper import dataBase
 from DoctorsData import jsonData
+from blog_data import blog_data
 
 appt = []
 
@@ -154,10 +155,9 @@ def appoint():
     return home()
 
 
-
-@app.route('/blog')
-def blog():
-    return render_template('details.html')
+@app.route('/<string:page_name>/')
+def rend(page_name):
+  return render_template('%s.html' % page_name)
 
 if __name__ == '__main__':
     app.run(debug=True)
