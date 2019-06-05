@@ -167,7 +167,6 @@ def book():
         global appt
         appt.append(data[0])
         appt.append(data[2])
-        print(appt)
         return render_template('booking.html',doctor=data[0],patient=session['name'],time=data[1],fee=data[2])
 
 
@@ -187,7 +186,6 @@ def order():
         cur.execute('SELECT productId, name, price, description, image, stock FROM products')
         itemData = cur.fetchall()
     itemData = parse(itemData)
-    print(itemData)
     return render_template('order.html', itemData=itemData, loggedIn=loggedIn  , noOfItems=noOfItems,)
 
 @app.route("/productDescription")
@@ -254,7 +252,13 @@ def removeFromCart():
     conn.close()
     return redirect(url_for('order'))
 
-
+@app.route("/orderPlaced")
+def opl():
+    with sqlite3.connect('database.db') as conn:
+        cur = conn.cursor()
+        cur.execute('Delete from kart where 1=1')
+    conn.close()
+    return redirect(url_for('order'))
 
 @app.route('/<string:page_name>/')
 def rend(page_name):

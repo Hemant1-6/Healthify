@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns:font-size="http://www.w3.org/1999/xhtml"><head>
+    <link rel="shortcut icon" href="static/images/health.png">
+    <link rel=stylesheet href="{{ url_for('static', filename='css/skel.css') }}"/>
+	<link rel=stylesheet href="{{ url_for('static', filename='css/style.css') }}"/>
+	<link rel=stylesheet href="{{ url_for('static', filename='css/style-xlarge.css') }}"/>
+	<link rel=stylesheet href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous"/>
+
+	<title>Contact Us</title>
+</head>
+<body>
+
+    			<header id="header" class="skel-layers-fixed">
+				<h1><a href="{{url_for('home')}}">HEALTHIFY</a></h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="{{url_for('home')}}">Home</a></li>
+						<li><a href="#consult">Book Appointment</a></li>
+						<li><a href="{{url_for('order')}}">Order Medicine</a></li>
+						<li><a href="#blog">Blog</a></li>
+						<li><a href="{{url_for('rend',page_name='contact')}}" class="button special">Contact Us</a></li>
+					</ul>
+				</nav>
+			</header>
+
+
+	<div class="container" style="margin-top: 160px;">
+        <h1 style="font-size:32px;"><strong>TEAM HEALTHIFY</strong></h1>
+		<div class="row">
+
+		   <div class="col-md-3" style="padding: 0px;margin: 20px;">
+		   <img class="img-thumbnail" src="{{url_for('static',filename='images/aj.JPG')}}" >
+               <h4><strong>Ajay</strong></h4>
+           <a href="#">Ajayjohar.9@gmail.com</a>
+           <h6>8295149549</h6>
+	       </div>
+
+	      <div class="col-md-3" style="padding: 0px;margin: 20px;">
+		  <img class="img-thumbnail" src="{{url_for('static',filename='images/an.JPG')}}" >
+              <h4><strong>ANSHAY SEHRAWAT</strong></h4>
+          <a href="#">anshay.sehrawat@gmail.com</a>
+          <h6>8826612885</h6>
+		  </div>
+
+		  <div class="col-md-3" style="padding: 0px;margin: 20px;">
+		  <img class="img-thumbnail" src="{{url_for('static',filename='images/hema.JPG')}}" >
+              <h4><strong>Hemant Ahuja</strong></h4>
+          <a href="#">hemantahuja.1016@gmail.com</a>
+          <h6>9138459808</h6>
+		  </div>
+
+		  <div class="col-md-3" style="padding: 0px;margin: 20px;">
+		  <img class="img-thumbnail" src="{{url_for('static',filename='images/sa.JPG')}}">
+              <h4><strong>Sahil</strong></h4>
+          <a href="#">sahilmehta.mehta1@gmail.com</a>
+          <h6>7056156038</h6>
+			</div>
+		</div>
+		</div>
+
+            <link rel="stylesheet" href="./contact_files/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+            <script src="./contact_files/jquery-3.3.1.slim.min.js.download" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="./contact_files/popper.min.js.download" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+            <script src="./contact_files/bootstrap.min.js.download" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+</body></html>

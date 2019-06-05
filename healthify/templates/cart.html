@@ -9,6 +9,12 @@
     <link rel=stylesheet href="{{ url_for('static', filename='css/style-xlarge.css') }}"/>
     <link rel=stylesheet href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous"/>
 
+	<script>
+   function alrt(){
+     alert("Order Placed successfully!")
+   }
+   </script>
+
 </head>
 <body>
 <div id="title" style="margin-bottom:50px;">
@@ -18,9 +24,7 @@
 				<nav id="nav">
 					<ul>
 						<li><a href="{{url_for('home')}}">Home</a></li>
-						<li><a href="#consult">Book Appointment</a></li>
 						<li><a href="{{url_for('order')}}">Order Medicine</a></li>
-						<li><a href="#blog">Blog</a></li>
 						<li><a href="{{url_for('cart')}}" class="button special">CART {{noOfItems}}</a></li>
 					</ul>
 				</nav>
@@ -52,7 +56,7 @@
 		</div>
 	</div>
 </div>
-<a href="/checkout">Proceed to checkout</a>
+<a href="{{url_for('opl')}}" onclick="return alrt();">Proceed to checkout</a>
 </body>
 </html>
 
